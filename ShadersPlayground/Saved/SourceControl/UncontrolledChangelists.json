@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/PersonaProjects/UE5/ShadersPlayground/ShadersPlayground/Content/EyesShader/EyesShader.uasset",
+				"D:/PersonaProjects/UE5/ShadersPlayground/ShadersPlayground/Content/EyesShader/MPC_Main.uasset",
+				"D:/PersonaProjects/UE5/ShadersPlayground/ShadersPlayground/Content/EyesShader/Target_BP.uasset",
+				"D:/PersonaProjects/UE5/ShadersPlayground/ShadersPlayground/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/Q6/45YDF9IDFXGYYWY48A5NHM.uasset",
+				"D:/PersonaProjects/UE5/ShadersPlayground/ShadersPlayground/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JB/LK20H32HGYLCRD0FJZZOV9.uasset",
+				"D:/PersonaProjects/UE5/ShadersPlayground/ShadersPlayground/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/22/5KYJPLG8X3BWMGCCWUZCOX.uasset"
+			]
+		}
+	]
+}
